@@ -1,0 +1,6 @@
+
+
+GET http://localhost:3000/spark/12
+
+###
+GET http://localhost:3000/spark
